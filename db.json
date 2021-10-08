@@ -1,21 +1,42 @@
-{"users":
-[{"id":1,"first_name":"Mindy","last_name":"Lippini","email":"mlippini0@wordpress.org","gender":"Bigender"},
-{"id":2,"first_name":"Dougie","last_name":"Koschke","email":"dkoschke1@youtu.be","gender":"Agender"},
-{"id":3,"first_name":"Eugen","last_name":"MacKill","email":"emackill2@umich.edu","gender":"Non-binary"},
-{"id":4,"first_name":"Ninnette","last_name":"Drei","email":"ndrei3@devhub.com","gender":"Male"},
-{"id":5,"first_name":"Larina","last_name":"Brodnecke","email":"lbrodnecke4@eepurl.com","gender":"Bigender"},
-{"id":6,"first_name":"Maxim","last_name":"Gaye","email":"mgaye5@jigsy.com","gender":"Male"},
-{"id":7,"first_name":"Gretta","last_name":"Soame","email":"gsoame6@tinyurl.com","gender":"Polygender"},
-{"id":8,"first_name":"Samuel","last_name":"Dudin","email":"sdudin7@i2i.jp","gender":"Genderfluid"},
-{"id":9,"first_name":"Aurelea","last_name":"Larcher","email":"alarcher8@omniture.com","gender":"Male"},
-{"id":10,"first_name":"Bonnee","last_name":"Stuart","email":"bstuart9@devhub.com","gender":"Bigender"},
-{"id":11,"first_name":"Carlina","last_name":"Kender","email":"ckendera@hostgator.com","gender":"Agender"},
-{"id":12,"first_name":"Kristy","last_name":"Rehme","email":"krehmeb@noaa.gov","gender":"Polygender"},
-{"id":13,"first_name":"Hedy","last_name":"Skillen","email":"hskillenc@gravatar.com","gender":"Polygender"},
-{"id":14,"first_name":"Davina","last_name":"Brouncker","email":"dbrounckerd@berkeley.edu","gender":"Male"},
-{"id":15,"first_name":"Sauveur","last_name":"Dreghorn","email":"sdreghorne@hibu.com","gender":"Genderfluid"},
-{"id":16,"first_name":"Myron","last_name":"Sieur","email":"msieurf@wp.com","gender":"Male"},
-{"id":17,"first_name":"Benn","last_name":"Winterborne","email":"bwinterborneg@oakley.com","gender":"Bigender"},
-{"id":18,"first_name":"Dennis","last_name":"Wringe","email":"dwringeh@ucsd.edu","gender":"Male"},
-{"id":19,"first_name":"Rhoda","last_name":"Luquet","email":"rluqueti@fema.gov","gender":"Genderqueer"},
-{"id":20,"first_name":"Roderigo","last_name":"Plaxton","email":"rplaxtonj@cpanel.net","gender":"Bigender"}]}
+{"products":[
+  {
+  "id": 1,
+  "name": "Chameleon (unidentified)",
+  "category": "Orange"
+}, {
+  "id": 2,
+  "name": "Yellow-necked spurfowl",
+  "category": "Puce"
+}, {
+  "id": 3,
+  "name": "Andean goose",
+  "category": "Maroon"
+}, {
+  "id": 4,
+  "name": "Chameleon (unidentified)",
+  "category": "Goldenrod"
+}, {
+  "id": 5,
+  "name": "Great skua",
+  "category": "Khaki"
+}, {
+  "id": 6,
+  "name": "African darter",
+  "category": "Violet"
+}, {
+  "id": 7,
+  "name": "Hawk-eagle, crowned",
+  "category": "Crimson"
+}, {
+  "id": 8,
+  "name": "Sloth, two-toed",
+  "category": "Goldenrod"
+}, {
+  "id": 9,
+  "name": "Wildebeest, blue",
+  "category": "Turquoise"
+}, {
+  "id": 10,
+  "name": "Ibis, glossy",
+  "category": "Maroon"
+}]}
